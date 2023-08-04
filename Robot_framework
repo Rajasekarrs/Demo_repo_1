@@ -1,0 +1,20 @@
+What is the Robot Framework In Python?
+Robot Framework Architecture
+Installation
+Standard Libraries
+Built-in Tools
+Test Cases
+Workflow Tests
+Higher-Level Tests
+Data-Driven Tests
+Keywords
+Library Keywords
+User Keywords
+Variables
+Defining Variables
+Using Variables
+Organizing Test Cases
+RobotFramework-Selenium Library
+Installation
+Browser Drivers
+Use Case – Web Testing With Robot Framework And SeleniumLibrary
